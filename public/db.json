@@ -1,0 +1,20 @@
+[
+	{
+		"nick": "Pepito",
+		"months": 3,
+		"profileUrl": "https://i.pravatar.cc/150?u=pepe",
+		"description": "FormReducerAction' is defined but never used."
+	},
+	{
+		"nick": "Juanito",
+		"months": 34,
+		"profileUrl": "https://i.pravatar.cc/150?u=juan",
+		"description": "Search for the keywords to learn more about each warning."
+	},
+	{
+		"nick": "Pablito",
+		"months": 12,
+		"profileUrl": "https://i.pravatar.cc/150?u=pablote",
+		"description": "To ignore, add // eslint-disable-next-line to the line before."
+	}
+]
